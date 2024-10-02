@@ -5,7 +5,7 @@ h1{border-style: ridge;}
  #jesus {width: 40%;}
  h1{border-width: 5px;}
 #jesus{margin-left: 30%;}
-
+h1{border-color: #3098b3;}
 
 h2{text-align: center;}
 h2{color: aliceblue;}
@@ -13,3 +13,14 @@ h2{border-style: ridge;}
  #mae {width: 40%;}
  h2{border-width: 5px;}
 #mae {margin-left: 30%;}
+h2{border-color: #3098b3;}
+
+
+#jesus {
+    border: 10px solid #17a8cc; /* Espessura, estilo e cor da borda */
+    border-radius: 8px; /* Para bordas arredondadas, se desejar */
+}
+ #mae {
+    border: 10px solid #3098b3; /* Espessura, estilo e cor da borda */
+    border-radius: 8px; /* Para bordas arredondadas, se desejar */
+}
